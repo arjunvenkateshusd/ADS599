@@ -271,7 +271,7 @@ app.layout = html.Div(
             }),
         ]),
         html.Footer(
-            "ADS-599 Capstone · University of San Diego · 2024 · "
+            "ADS-599 Capstone · University of San Diego · 2026 · "
             "Arjun Venkatesh · Duy-Anh Dang · Jorge Roldan",
             style={"textAlign": "center", "color": CLR["muted"],
                    "fontSize": "0.72rem", "padding": "16px",

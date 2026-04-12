@@ -605,7 +605,7 @@ else:
 st.divider()
 st.markdown(
     '<p style="color:#4a6a8a;font-size:0.72rem;text-align:center;">'
-    "ADS-599 Capstone Thesis · University of San Diego · 2024 · "
+    "ADS-599 Capstone Thesis · University of San Diego · 2026 · "
     "Arjun Venkatesh · Duy-Anh Dang · Jorge Roldan"
     "</p>",
     unsafe_allow_html=True,
