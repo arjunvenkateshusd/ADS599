@@ -6,6 +6,8 @@ ADS-599 Capstone — Arjun Venkatesh, Duy-Anh Dang, Jorge Roldan
 
 Run:
     python -m streamlit run app_streamlit.py
+Or:
+   python -m streamlit run ../code_library/app_streamlit.py 
 """
 
 import os
